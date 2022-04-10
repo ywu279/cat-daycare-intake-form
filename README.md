@@ -1,5 +1,5 @@
 # Cat Daycare Intake Form
-Create a single web page of cat intake form and use `JavaScript` for form validation. The following data input requirements are implemented:
+A single web page of cat intake form with `JavaScript` for form validation. The following data input requirements are implemented:
 - text (required)
 - checkbox (at least one box checked)
 - time selection (half hour increment; dropdown list; required)
